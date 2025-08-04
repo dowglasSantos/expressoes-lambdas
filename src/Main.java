@@ -1,8 +1,6 @@
 import calculadora.IMultiplicacao;
 import calculadora.ISoma;
 import generic.GenericResult;
-
-import java.lang.reflect.Array;
 import java.util.LinkedList;
 import java.util.List;
 
